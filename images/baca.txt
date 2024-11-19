@@ -1,0 +1,4 @@
+cari 3 buah gambar dengan format png dan beri nama file :
+1. up_arrow.png
+down_arrow.png
+default.png (bisa berupa bentuk simbol tambah/plus)
